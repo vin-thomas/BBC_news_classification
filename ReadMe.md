@@ -5,11 +5,11 @@ This project was jointly done by Somasundaram Chidambaram and Vinod Thomas
 # BBC_BoW_final.ipynb
 
 Simple Bag of Words method was used to vectorize the news articles. Thereafter various machine learning algorithms were applied on the vectors. The test accuracies obtained are as follows: 
-KNN 0.67
+KNN 0.69
 SVC 0.96
 Random Forest 0.86
-Gradient Descent 0.97
-Logistic Regression 0.98
+Gradient Descent 0.96
+Logistic Regression 0.97
 
 # BBC_tfidf.ipynb
 Tfidf was used to vectorize the news articles. On applying various ML algorithms on the dataset, the following accuracy scores were obtained. 
