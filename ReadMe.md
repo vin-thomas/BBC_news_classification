@@ -11,13 +11,13 @@ Random Forest 0.86
 Gradient Descent 0.96
 Logistic Regression 0.97
 
-# BBC_tfidf.ipynb
+# BBC_tfidf_final.ipynb
 Tfidf was used to vectorize the news articles. On applying various ML algorithms on the dataset, the following accuracy scores were obtained. 
 KNN 0.96
-SVC 0.95
-Random Forest 0.94
-Gradient Descent 0.83
-Logistic Regression 0.95
+SVC 0.98
+Random Forest 0.81
+Gradient Descent 0.98
+Logistic Regression 0.98
 
 # BBC_cnn_final.ipynb
 One dimensional convolutional neural network was applied on the dataset. We used three kernels of 3, 4 and 5-grams. The resulting accuracy was 0.97.
