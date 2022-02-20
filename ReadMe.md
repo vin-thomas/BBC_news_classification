@@ -25,7 +25,7 @@ One dimensional convolutional neural network was applied on the dataset. We used
 # BBC_LSTM_Final.ipynb
 LSTM was applied on the dataset to arrive at an accuracy of 0.90
 
-BBC_BERT_final.ipynb
+# BBC_BERT_final.ipynb
 On applying BertForSequenceClassification, at 3 epochs, an accuracy of 0.95 was achieved.
 
 # BBC_cnn_Deployment.ipynb
